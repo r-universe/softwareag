@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cumulocityr",
+    "oncran": true
+  },
+  {
+    "package": "pmml",
+    "oncran": true
+  }
+]

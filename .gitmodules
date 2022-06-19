@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cumulocityr"]
+	path = cumulocityr
+	url = https://github.com/softwareag/cumulocityr
+	shallow = true
+	registered = true
+[submodule "pmml"]
+	path = pmml
+	url = https://github.com/softwareag/r-pmml
+	shallow = true
+	registered = true
