@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cumulocityr"]
-	path = cumulocityr
-	url = https://github.com/softwareag/cumulocityr
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/softwareag/r-pmml
